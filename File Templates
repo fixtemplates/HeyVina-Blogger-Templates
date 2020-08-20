@@ -546,12 +546,12 @@ window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(argumen
 <b:section class='header' id='header' maxwidgets='1' name='Logo &amp; Title' showaddelement='no'>
   <b:widget id='Header1' locked='true' title='HeyVina (Header)' type='Header' version='1'>
     <b:widget-settings>
-      <b:widget-setting name='displayUrl'>http://1.bp.blogspot.com/-k4ExLNUweIY/XzuMuW8mQLI/AAAAAAAABj4/dywOioNrbIgj3HrFA5yroYhh1W6lgCsiwCK4BGAYYCw/s1600/faviconsmall.png</b:widget-setting>
+      <b:widget-setting name='displayUrl'>http://1.bp.blogspot.com/-qJO2cZ13P9w/Xz49mp2eXfI/AAAAAAAAAFw/uYDIs1mNYeYADkkrh8KDfPdNbpIhmIy2QCK4BGAYYCw/s1600/logoheyvina.png</b:widget-setting>
       <b:widget-setting name='displayHeight'>300</b:widget-setting>
       <b:widget-setting name='sectionWidth'>790</b:widget-setting>
       <b:widget-setting name='useImage'>true</b:widget-setting>
       <b:widget-setting name='shrinkToFit'>false</b:widget-setting>
-      <b:widget-setting name='imagePlacement'>BEFORE_DESCRIPTION</b:widget-setting>
+      <b:widget-setting name='imagePlacement'>REPLACE</b:widget-setting>
       <b:widget-setting name='displayWidth'>300</b:widget-setting>
     </b:widget-settings>
     <b:includable id='main'>
