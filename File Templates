@@ -771,20 +771,7 @@ user is not using shrink to fit then we expand the header.
 <b:section class='banner section' id='banner' maxwidgets='1' showaddelement='yes'>
   <b:widget cond='data:view.isHomepage' id='HTML1' locked='false' title='' type='HTML'>
     <b:widget-settings>
-      <b:widget-setting name='content'>&lt;div style=&quot;width:100%;height:90px;background:#dbdde1;margin:0 auto;position:relative;&quot;&gt;
-&lt;div id=&#39;content1&#39;&gt;
-&lt;div style=&quot;text-align: center;&quot;&gt;
-&lt;ul class=&quot;button&quot;&gt;
-&lt;li&gt;&lt;a class=&quot;downloadr&quot; href=&quot;https://fixtemplates.blogspot.com&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;Click Here&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-  &lt;div class=&#39;visible&#39;&gt;
-    &lt;p&gt;
-      Responsive 970x90
-    &lt;/p&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;</b:widget-setting>
+      <b:widget-setting name='content'><![CDATA[<iframe src="https://cleanpremiumxml.blogspot.com/" border="0" scrolling="no" allowtransparency="true" width="100%" height="90" style="border:0;"></iframe>]]></b:widget-setting>
     </b:widget-settings>
     <b:includable id='main'>
   <!-- only display title if it's non-empty -->
@@ -2229,7 +2216,7 @@ Pada <a class='timestamp-link' expr:href='data:post.url' rel='bookmark' title='p
   </b:widget>
   <b:widget id='HTML98' locked='false' title='' type='HTML' version='1'>
     <b:widget-settings>
-      <b:widget-setting name='content'><![CDATA[<!-- <img src="" /> -->]]></b:widget-setting>
+      <b:widget-setting name='content'><![CDATA[<iframe src="https://cleanpremiumxml.blogspot.com/" border="0" scrolling="no" allowtransparency="true" width="100%" height="250" style="border:0;"></iframe>]]></b:widget-setting>
     </b:widget-settings>
     <b:includable id='main'>
   <!-- only display title if it's non-empty -->
@@ -2346,20 +2333,7 @@ Pada <a class='timestamp-link' expr:href='data:post.url' rel='bookmark' title='p
 <b:section class='banner2 section' id='banner2' maxwidgets='1' showaddelement='yes'>
   <b:widget id='HTML3' locked='false' title='' type='HTML'>
     <b:widget-settings>
-      <b:widget-setting name='content'>&lt;div style=&quot;width:100%;height:90px;background:#dbdde1;margin:0 auto;position:relative;&quot;&gt;
-&lt;div id=&#39;content1&#39;&gt;
-&lt;div style=&quot;text-align: center;&quot;&gt;
-&lt;ul class=&quot;button&quot;&gt;
-&lt;li&gt;&lt;a class=&quot;downloadr&quot; href=&quot;https://fixtemplates.blogspot.com&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;Click Here&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-  &lt;div class=&#39;visible&#39;&gt;
-    &lt;p&gt;
-      Responsive 970x90
-    &lt;/p&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;</b:widget-setting>
+      <b:widget-setting name='content'><![CDATA[<iframe src="https://cleanpremiumxml.blogspot.com/" border="0" scrolling="no" allowtransparency="true" width="100%" height="90" style="border:0;"></iframe>]]></b:widget-setting>
     </b:widget-settings>
     <b:includable id='main'>
   <!-- only display title if it's non-empty -->
